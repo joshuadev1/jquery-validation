@@ -13,7 +13,7 @@ $.extend( $.validator.messages, {
 	digits: "Zəhmət olmasa, yalnız rəqəm daxil edin.",
 	creditcard: "Zəhmət olmasa, düzgün kredit kart nömrəsini daxil edin.",
 	equalTo: "Zəhmət olmasa, eyni mənanı bir daha daxil edin.",
-	extension: "Zəhmət olmasa, düzgün genişlənməyə malik faylı seçin.",
+	extension: "Zəhmət olmasa, düzgün tələb edilən uzantıya  malik faylı seçin.",
 	maxlength: $.validator.format( "Zəhmət olmasa, {0} simvoldan çox olmayaraq daxil edin." ),
 	minlength: $.validator.format( "Zəhmət olmasa, {0} simvoldan az olmayaraq daxil edin." ),
 	rangelength: $.validator.format( "Zəhmət olmasa, {0} - {1} aralığında uzunluğa malik simvol daxil edin." ),
